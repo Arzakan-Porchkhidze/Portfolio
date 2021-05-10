@@ -35,6 +35,10 @@ button {
   }
 }
 
+li {
+  list-style: none
+}
+
 .App {
   width: 100%;
   display: flex;

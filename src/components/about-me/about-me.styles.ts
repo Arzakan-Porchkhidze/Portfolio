@@ -5,7 +5,7 @@ export const AboutDiv = styled.div`
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	margin: 80px 0px;
+	margin: 120px 0px;
 `;
 
 export const MyImage = styled.img`
